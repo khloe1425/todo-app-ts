@@ -1,0 +1,12 @@
+.main-todo {
+  display: grid;
+  place-content: center;
+}
+
+.todo-app {
+  width: 500px;
+  border-radius: 10px;
+  box-shadow: 1px 0px 6px 1px gray;
+
+  padding: 20px;
+}
